@@ -22,3 +22,6 @@ split over \
 several \
 lines"""
 print(escapeEndOfLine)
+
+print('C:\\Users\\ricardo.jcarvalho\\notes.txt')
+print(r'C:\Users\ricardo.jcarvalho\notes.txt')
