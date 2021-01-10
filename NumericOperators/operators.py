@@ -11,8 +11,12 @@ print(a % b) # 0 modulo: the remainder after integer division
 print()
 
 # must be integers
-for i in range(1, 4):
-    print(i)
-print()
-for i in range(1, a // b):
-    print(i)
+#for i in range(1, 4):
+#    print(i)
+#print()
+#for i in range(1, a // b):
+#    print(i)
+
+print(a + b / 3 - 4 * 12)
+print(a + (b / 3) - (4 * 12))
+print((((a + b) / 3) -4) * 12)
